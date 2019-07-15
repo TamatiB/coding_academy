@@ -11,5 +11,7 @@ Water Calculator (Level 2) - [https://projects.raspberrypi.org/en/projects/cd-se
 
 Fart Catcher (Level 3) - [https://projects.raspberrypi.org/en/projects/cd-sebento-scratch-3]
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you have any questions you can ask your questions on the backchannel chat, the code is d8772`
+```diff
+- If you have any questions you can ask your questions on the backchannel chat, the code is d8772
+```
 
