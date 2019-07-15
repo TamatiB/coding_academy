@@ -8,7 +8,7 @@ Step 1: Download Scratch file:
     
     In your scratch project:
     
-    Left Click 'File'
+    Left Click 'File' on the left hand corner
     
     Left Click 'Save to your computer'
     
@@ -28,6 +28,8 @@ Step 3: Upload to GitHub folder
 
     On this github page:
     
-    Click 'upload'
+    Click 'upload files' in the right hand corner
     
     Drag and drop your downloaded file into the space on the screen
+    
+    Scroll down to the bottom of the screen and Left Click 'Commit Changes'
