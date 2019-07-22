@@ -1,6 +1,6 @@
 # This is the folder for the first lesson.
 
-Upload your homweowork to the homework folder so that you can save your work
+
 
 ## Homework for this week is:
 Mosquito Patrol - https://projects.raspberrypi.org/en/projects/cd-sebento-scratch-1
