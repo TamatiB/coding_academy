@@ -2,7 +2,7 @@
 
 
 ## Homework for this week is:
-Read through the material and do the chalenges up until an dincluding "Conditionals", stop before "Lists"
+Read through the material and do the chalenges up until and including "Conditionals", stop before "Lists"
 
 https://docs.trinket.io/getting-started-with-python#/numbers/numbers-in-python
 
