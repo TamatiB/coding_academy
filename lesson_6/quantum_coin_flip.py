@@ -5,7 +5,7 @@ from qiskit import execute
 from qiskit import Aer
 
 def quantum_coin_flip():
-  simulator = Aer.get_backend("qasm_simulator")
+  backend = Aer.get_backend("qasm_simulator")
 
   #create Quantum Register with 1 qubit
   qr = qk.QuantumRegister(1)
@@ -26,9 +26,17 @@ def quantum_coin_flip():
 
   print("Computer plays again...")
   qc.h(qr[0])
+  
+###############################################
+# You can use a real quantum computer if you have an load_account
+# https://quantum-computing.ibm.com/signup
+###############################################
 
+  #qk.IBMQ.load_accounts()
+  #backend = qk.providers.ibmq.least_busy(qk.IBMQ.backends(simulator=False))
+  #print("We'll use the least busy device:",backend.name())
   qc.measure(qr,cr)
-  job = execute(qc, backend = simulator, shots = 1)
+  job = execute(qc, backend = backend, shots = 1)
 
   results = job.result()
   counts = results.get_counts()
