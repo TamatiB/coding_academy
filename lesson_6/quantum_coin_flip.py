@@ -1,5 +1,4 @@
 import random
-
 import qiskit as qk
 from qiskit import execute
 from qiskit import Aer
@@ -40,6 +39,7 @@ def quantum_coin_flip():
 
   results = job.result()
   counts = results.get_counts()
+
   if counts["0"] == 1:
     print("You lose. Soz")
   if counts["0"] == 0:
@@ -49,15 +49,16 @@ def quantum_coin_flip():
 def flip_coin():
   return(random.randint(0,1))
 
-def computer_play(coin):
+def computer_play(coin_var):
+  #chooses to flip or not flip, it it choses to flip(1) it flips
   flip_or_not = random.randint(0,1)
   if flip_or_not == 1:
-    return(flip_coin())
+    return(flip_coin()) #it calls the flip function to flip the coin
   else:
-    return coin
+    return coin_var
+
 
 def classical_coin_flip():
-  #chooses to flip or not flip, it it choses to flip it flips
   coin = 1
   coin = computer_play(coin)
   humen = input("Would you like to flip? Yes(y) or No(n): ")
@@ -65,9 +66,9 @@ def classical_coin_flip():
     coin = flip_coin()
   coin = computer_play(coin)
   print(coin)
-  if coin == 1:
-    print("You lose. Soz")
   if coin == 0:
+    print("You lose. Soz")
+  if coin == 1:
     print("You win! Well done")
 
 game = input("Classical game (c) or Quantum game (q)?: ")
