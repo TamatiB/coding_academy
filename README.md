@@ -17,7 +17,8 @@ Schedule is as follows:
 | 24-08 | Lesson 6: Python 5 - Intro to Quantum Computing     | https://github.com/TamatiB/coding_academy/tree/master/lesson_6                                                                                                                                                                                                      |
 | 31-08 | Lesson 7: Intro to webdev                          | https://projects.raspberrypi.org/en/projects/cd-beginner-html-css-sushi https://projects.raspberrypi.org/en/coderdojo/21                                                                                                                        |
 | 07-09 | Lesson 8: Intro to machine learning                | https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy.pdf https://machinelearningforkids.co.uk/#!/worksheets                                                                                                                                                    |
-| 14-09 | Lesson 9: Coding in industry, design thinking + hackathon   |                                                                                                                                                                                                       |
+| 14-09 | Lesson 9: Coding in industry, design thinking   |                                                                                                                                                                                                       |
+| 21-09 | Lesson 10: Hackathon   |                                                                                                                                                                                                       |
 
 
 djxstnk.htr 4321
