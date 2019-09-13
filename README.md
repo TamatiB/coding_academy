@@ -20,16 +20,4 @@ Schedule is as follows:
 | 14-09 | Lesson 9: Computational Thinking   |  https://drive.google.com/file/d/1S3gzAMVsgZcqqARhJ2aRDuu7XNDCx_Ts/view?usp=sharing                                                                                                                                                                                                     |
 | 21-09 | Lesson 10: Hackathon   |                                                                                                                                                                                                       |
 
-
-djxstnk.htr 4321
-
-ldpdzhvrph.frp 6789
-
- 
-
-zeferxerxpmfk.zlj 1011
- 
-
-owb bw kwzvqng.kwu ivl xzmaa smgjwizl smga qv bpqa wzlmz: cx,cx,lwev,lwev,tmnb,zqopb,tmnb,zqopb,j,I 3128
- 
-zhm mh zhhzex bftzxl tgw mrix "tmtkb ukxtdhnm" bgmh max lxtkva utk 4673
+Course Evaluation - https://forms.gle/SfkEXWUZ8isGfWeo8
