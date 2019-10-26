@@ -1,6 +1,6 @@
 # Coding Academy
 
-This is the resources page for the coding academy, backchannel chat code is d8772
+This is the resources page for the coding academy
 
 Specific lesson communications can be found in the lesson folders e.g lesson 1 stuff will be in the lesson 1 folder
 
