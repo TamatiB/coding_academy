@@ -30,6 +30,7 @@ Course Evaluation - https://forms.gle/SfkEXWUZ8isGfWeo8
 Other resoucres
 https://www.codemonkey.com/hour-of-code/  
 
-https://www.researchgate.net/publication/341199245_The_Hour_of_the_Code_Computational_thinking_workshop_in_a_primary_school_in_Guarda_Portugal
-https://teachinglondoncomputing.org/puzzles/
-https://www.kidscodecs.com/computational-thinking-projects/
+  https://www.researchgate.net/publication/341199245_The_Hour_of_the_Code_Computational_thinking_workshop_in_a_primary_school_in_Guarda_Portugal
+  https://teachinglondoncomputing.org/puzzles/
+  https://www.kidscodecs.com/computational-thinking-projects/
+  https://www.gettingsmart.com/2018/05/10-classroom-ready-computational-thinking-resources-for-k-12/
